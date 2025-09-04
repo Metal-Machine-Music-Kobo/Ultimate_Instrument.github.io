@@ -5,7 +5,6 @@
 
 ## セクション
 - [概要 / Overview](docs/overview.md)
-- [ステートメント](docs/statement.md)
 - [背景 / Context](docs/context.md)  
 - [機材・配線](docs/hardware.md)
 - [公開ログ / 更新履歴](docs/logs.md)
