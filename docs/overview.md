@@ -57,16 +57,6 @@ UIにおける即興とは「構造なき自由」ではなく、**構造に介�
 - GitHub Repository: [Ultimate_Instrument](https://github.com/Metal-Machine-Music-Kobo/Ultimate_Instrument.github.io)
 
 
-## プロジェクトの目的
-- 行為と環境の相互作用を観測・共有する
-- 音楽・美術・即興実践の批判的継承
-- 双方向的な資料公開
-
-## 読み進め方
-1. [ステートメント](statement.md) — 理念・方向性
-2. [ルール / 手順](rules.md) — 実行の流れ
-3. [機材・配線](hardware.md) — 使用機材と構造
-
 ---
 
 最終更新：2025-09-04
