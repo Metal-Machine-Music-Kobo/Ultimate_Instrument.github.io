@@ -14,3 +14,9 @@
 
 最終更新：2025-09-04  
 連絡先：arttkg@gmail.com
+
+
+## ライセンス
+これらの資料は [Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)](https://creativecommons.org/licenses/by-nc/4.0/deed.ja) の下で提供されています。  
+出典を明記すれば、非営利目的に限り自由に利用・改変・再配布できます。  
+商用利用はできません。
