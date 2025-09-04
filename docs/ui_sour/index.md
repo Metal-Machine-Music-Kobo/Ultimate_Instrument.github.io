@@ -8,5 +8,5 @@ UI SOUR は、アルティメット・インストゥルメントの実践例の
 
 ## ページ一覧
 - [Rules](rules.md) — 実施のためのルール集  
-- [hardware](hardware.md) — 機材・接続 
+- [hardware](hardware.md) — 機材・配線
 - [Practice](practice.md) — 実践記録・演奏ログ  
