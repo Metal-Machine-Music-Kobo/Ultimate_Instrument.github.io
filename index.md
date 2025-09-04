@@ -10,6 +10,7 @@
 - [ルール / 手順](docs/rules.md)
 - [機材・配線](docs/hardware.md)
 - [公開ログ / 更新履歴](docs/logs.md)
+- [実践記録](docs/practice/index.md)
 - [FAQ](docs/faq.md)
 
 ---
