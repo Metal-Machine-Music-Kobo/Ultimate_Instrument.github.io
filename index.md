@@ -15,7 +15,7 @@
 ## 記録と研究
 - [公開ログ / Update Log](docs/logs.md)
 - [日記 / Diary](docs/diary/index.md)
-- [研究資料 / Research](docs/research/index.md)
+- [研究資料 / Research](research/index.md)
 
 ## 利用者向け
 - [FAQ](docs/faq.md)
