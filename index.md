@@ -9,15 +9,13 @@
 - [概要 / Overview](docs/overview.md)
 - [背景 / Context](docs/context.md)
 
-## 記録
-- [公開ログ / Update Log](docs/logs.md)
-- [日記 / Diary](docs/diary/index.md)
-
 ## 実践
 - [UI SOUR](docs/ui_sour/index.md)
 
-## 研究
-- [研究資料 / Research](docs/research/index.mdindex.md)
+## 記録と研究
+- [公開ログ / Update Log](docs/logs.md)
+- [日記 / Diary](docs/diary/index.md)
+- [研究資料 / Research](docs/research/index.md)
 
 ## 利用者向け
 - [FAQ](docs/faq.md)
