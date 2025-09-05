@@ -7,4 +7,4 @@ UI的観点からの実験音楽史・思想史など広い領域に関連する
 - [UI理論まとめ / Theory](theory.md)
 - [実験音楽・思想 / Experimental & Philosophy](experimental.md)
 - [参考文献リスト / References](references.md)
-- [論考・エッセイ / Essays](essays.md)
+- [論考・エッセイ / Essays](https://note.com/arttkg/m/m7d6e093a18c1)
