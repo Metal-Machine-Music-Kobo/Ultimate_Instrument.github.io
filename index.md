@@ -16,6 +16,9 @@
 ## 実践
 - [UI SOUR](docs/ui_sour/index.md)
 
+## 研究
+- [研究資料 / Research](docs/research/index.md)
+
 ## 利用者向け
 - [FAQ](docs/faq.md)
 
