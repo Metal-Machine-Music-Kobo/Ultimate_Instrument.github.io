@@ -1,6 +1,6 @@
 # 研究資料 / Research
 
-このセクションでは、UI（Ultimate Instrument）に関する理論的考察や、
+このセクションでは、UI（Ultimate Instrument）に関する理論的考察や、  
 UI的観点からの実験音楽史・思想史など広い領域に関連する資料をまとめます。
 
 ## 項目
