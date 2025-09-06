@@ -10,7 +10,6 @@
     allow="autoplay; fullscreen; picture-in-picture"
     allowfullscreen>
 </iframe>
-
 ---
 
 ## 2025-09-10
