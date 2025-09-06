@@ -3,6 +3,9 @@
 このサイトは、UI（Ultimate Instrument）関連の公開資料をまとめたポータルです。  
 目的・思想・ルール・機材・ログなどを整理して公開します。
 
+This site is a portal for the Ultimate Instrument project.  
+It provides access to the project’s basic information, theoretical writings, practical experiments, and other related documents.
+
 ---
 
 ## 基礎情報
@@ -11,13 +14,13 @@
 
 
 ## 理論
-- [index](docs/theory/index.md)
-- [研究ノート](docs/theory/notes.md)
-- [エッセイ](docs/theory/essays.md)
+- [Theory Index](docs/theory/index.md)
+- [研究ノート/ Studies](docs/theory/notes.md)
+- [エッセイ / Essays](docs/theory/essays.md)
 
 
 ## 実践
-- [index](docs/practice/index.md)
+- [Practice Index](docs/practice/index.md)
 - [UI サワー](docs/practice/ui_sour/index.md)
 - [UI エクスペリメント](docs/practice/uishoe.md)
 
