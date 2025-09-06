@@ -5,11 +5,9 @@
 ---
 
 ## 2025-06-14
-<iframe src="https://player.vimeo.com/video/1103646630"
-    width="640" height="360" frameborder="0"
-    allow="autoplay; fullscreen; picture-in-picture"
-    allowfullscreen>
-</iframe>
+
+[![Watch on Vimeo](https://i.vimeocdn.com/video/XXXXXXXXX_640.jpg)](https://vimeo.com/1103646630)
+
 ---
 
 ## 2025-09-10
