@@ -31,8 +31,8 @@ It provides access to the project’s basic information, theoretical writings, p
 
 ---
 
-最終更新：2025-09-05  
-連絡先：arttkg@gmail.com
+Last Updated：2025-09-05  
+Contact：arttkg@gmail.com
 
 ## ライセンス
 これらの資料は [Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)](https://creativecommons.org/licenses/by-nc/4.0/deed.ja) の下で提供されています。  
