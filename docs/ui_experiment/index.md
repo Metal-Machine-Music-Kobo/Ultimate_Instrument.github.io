@@ -6,7 +6,7 @@
 
 ## 2025-06-14
 
-[![Watch on Vimeo](https://i.vimeocdn.com/video/2039713347-8b0b17dec53f8ae3bf0194bab60117a7a0efb3529009ce2e2ac6e0ca7b064cce-d_640?region=us)](https://vimeo.com/1103646630)
+[![Watch on Vimeo](https://i.vimeocdn.com\/video\/2039713347-8b0b17dec53f8ae3bf0194bab60117a7a0efb3529009ce2e2ac6e0ca7b064cce-d_200x150?region=us")](https://vimeo.com/1103646630)
 
 ---
 
