@@ -15,3 +15,6 @@
 - [John Cage](references/cage.md)
 - [David Tudor](references/tudor.md)
 - [Fluxus](references/fluxus.md)
+
+## 関連資料
+- [日記 / Diary](../diary/index.md)
