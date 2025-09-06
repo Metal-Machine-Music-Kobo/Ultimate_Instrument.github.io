@@ -9,15 +9,21 @@
 - [概要 / Overview](docs/overview.md)
 - [背景 / Context](docs/context.md)
 
+
+## 理論
+- [index](docs/theory/index.md)
+- [研究ノート](docs/theory/notes.md)
+- [エッセイ](docs/theory/essays.md)
+
+
 ## 実践
-- [UI SOUR](docs/ui_sour/index.md)
+- [index](docs/practice/index.md)
+- [UI サワー](docs/practice/ui_sour/index.md)
+- [UI エクスペリメント](docs/practice/uishoe.md)
 
-## 記録と研究
-- [公開ログ / Update Log](docs/logs.md)
-- [日記 / Diary](docs/diary/index.md)
-- [研究資料 / Research](docs/research/index.mdindex.md)
 
-## 利用者向け
+## その他
+- [Updates](docs/updates.md)
 - [FAQ](docs/faq.md)
 
 ---
