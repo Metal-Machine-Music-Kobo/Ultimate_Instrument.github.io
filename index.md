@@ -38,3 +38,7 @@ It provides access to the project’s basic information, theoretical writings, p
 これらの資料は [Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)](https://creativecommons.org/licenses/by-nc/4.0/deed.ja) の下で提供されています。  
 出典を明記すれば、非営利目的に限り自由に利用・改変・再配布できます。  
 商用利用はできません。
+
+These materials are licensed under the [Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)](https://creativecommons.org/licenses/by-nc/4.0/deed.en).  
+You are free to use, adapt, and redistribute them for **non-commercial purposes**, provided that proper attribution is given.  
+**Commercial use is not permitted.**
