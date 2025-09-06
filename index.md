@@ -14,7 +14,7 @@ It provides access to the project’s basic information, theoretical writings, p
 
 
 ## 理論
-- [Theory Index](docs/theory/index.md)
+- [Theory Index](docs/studies)
 - [研究ノート/ Studies](docs/theory/notes.md)
 - [エッセイ / Essays](docs/theory/essays.md)
 
