@@ -21,8 +21,8 @@ It provides access to the project’s basic information, theoretical writings, p
 
 ## 実践
 - [Practice Index](docs/practice/index.md)
-- [UI サワー](docs/practice/ui_sour/index.md)
-- [UI エクスペリメント](docs/practice/uishoe.md)
+- [UI サワー / UI SOUR](docs/practice/ui_sour/index.md)
+- [UI エクスペリメント / UI EXPERIMENT](docs/practice/uishoe.md)
 
 
 ## その他
