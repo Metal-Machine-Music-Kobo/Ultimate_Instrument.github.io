@@ -6,7 +6,7 @@
 ---
 
 ## テーマ別考察
-- [ノイズ / Noise](docs/studies/noise.md)
+- [ノイズ / Noise](studies/noise.md)
 - [即興 / Improvisation](improvisation.md)
 - [身体 / Body](body.md)
 - [楽譜 / Score](score.md)
