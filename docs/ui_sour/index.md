@@ -10,6 +10,6 @@ UI SOUR は、味覚（カクテルのレシピ）、音響（シンセサイザ
 - [機材 / Hardware](hardware.md)
 
 ## 更新 / Updates
-- [v0.99](ui_sour/update-v099.md)
+- [v0.99](update-v099.md)
 - [v0.98](updates/0.98.md)
 - [v0.97](updates/0.97.md)
