@@ -1,12 +1,13 @@
 # UI SOUR v1.0　美酢レモン
 
-UI SOUR は、アルティメット・インストゥルメントの実践例のひとつです。  
-味覚（カクテルのレシピ）と音響（シンセ）を結びつけ、  
-「味 ↔ 音 ↔ 身体」のフィードバックを生成します。  
+UI SOUR は、味覚（カクテルのレシピ）、音響（シンセサイザー）、そして演奏者の身体性を結びつける実践である。  
+味と音に加えて飲酒による身体変化を同一の座標に置き、三者が一体で作動するスコアとして構築されている。  
 
 ---
 
 ## ページ一覧
-- [Rules](rules.md) — 実施のためのルール集  
-- [hardware](hardware.md) — 機材・配線
-- [Practice](practice.md) — 実践記録・演奏ログ  
+- [ルール / Rules](rules.md)
+- [機材 / Hardware](hardware.md)
+- [ステートメント / Statement](practice.md)
+- [文脈 / Context](context.md)
+- [更新 / Updates](../updates.md)
