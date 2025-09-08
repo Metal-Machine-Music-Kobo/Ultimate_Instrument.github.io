@@ -6,7 +6,7 @@
 ---
 
 ## テーマ別考察
-- [ノイズ / Noise](noise.md)
+- [UI的ノイズ再定義におけるサティの位置づけ / Noise](noise.md)
 - [即興 / Improvisation](improvisation.md)
 - [身体 / Body](body.md)
 - [楽譜 / Score](score.md)
