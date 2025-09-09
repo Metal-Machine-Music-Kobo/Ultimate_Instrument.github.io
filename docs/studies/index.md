@@ -6,7 +6,7 @@
 ---
 
 ## テーマ別考察
-- [UI的ノイズ再定義におけるサティの位置づけ / Noise](noise.md)
+- [UI的ノイズ再定義におけるサティの位置づけ (noise.md)
 - [制度批判と内部生成のマッピングにおけるUIの位置](ui-position-mapping.md)
 - [身体 / Body](body.md)
 - [楽譜 / Score](score.md)
