@@ -44,6 +44,6 @@ Contact: arttkg@gmail.com
 商用利用はできません。
 
 
-These materials are licensed under the [Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)](https://creativecommons.org/licenses/by-nc/4.0/deed.en).  
-You are free to use, adapt, and redistribute them for **non-commercial purposes**, provided that proper attribution is given.  
-**Commercial use is not permitted.**
+This work is licensed under a [Creative Commons Attribution-NonCommercial 4.0 International License](https://creativecommons.org/licenses/by-nc/4.0/).  
+You are free to use, adapt, and redistribute for non-commercial purposes, provided that proper attribution is given.  
+Commercial use is not permitted.
