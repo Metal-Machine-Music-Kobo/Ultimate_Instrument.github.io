@@ -14,13 +14,11 @@ It provides access to the project’s basic information, theoretical writings, p
 
 
 ## 理論
-- [Theory Index](docs/studies/index.md)
 - [研究ノート/ Studies](docs/studies/index.md)
 - [エッセイ / Essays](docs/theory/essays.md)
 
 
 ## 実践
-- [Practice Index](docs/practice/index.md)
 - [UI サワー / UI SOUR](docs/ui_sour/index.md)
 - [UI エクスペリメント / UI EXPERIMENT](docs/ui_experiment/index.md)
 
