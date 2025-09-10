@@ -8,20 +8,12 @@
 
 ---
 
-## 埋め込み動画（例）
+# UI Experiment｜実験映像
 
-<div style="display: flex; gap: 10px; flex-wrap: wrap;">
-  <video controls width="240">
-    <source src="videos/demo1.mp4" type="video/mp4">
-    お使いのブラウザは video タグに対応していません。
-  </video>
-  <video controls width="240">
-    <source src="videos/demo2.mp4" type="video/mp4">
-  </video>
-  <video controls width="240">
-    <source src="videos/demo3.mp4" type="video/mp4">
-  </video>
-</div>
+<video controls width="480">
+  <source src="ultimet instrument study 0614.mp4" type="video/mp4">
+  お使いのブラウザは video タグに対応していません。
+</video>
 
 ---
 
