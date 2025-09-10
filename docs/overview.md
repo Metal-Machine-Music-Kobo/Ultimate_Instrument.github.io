@@ -46,7 +46,7 @@
 
 ## ドキュメント
 
-- [Updates](docs/updates.md)  
+- [Updates](updates.md)  
   新しい実験やリリース情報。
 
 - [研究ノート](studies/index.md)  
