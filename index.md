@@ -15,7 +15,7 @@ It provides access to the project’s basic information, theoretical writings, p
 
 ## 理論
 - [研究ノート/ Studies](docs/studies/index.md)
-- [エッセイ / Essays]([docs/theory/essays.md](https://note.com/arttkg/m/m7d6e093a18c1))
+- [エッセイ / Essays]([docs/theory/essays.md](https://note.com/arttkg/m/m7d6e093a18c1)
 
 
 ## 実践
