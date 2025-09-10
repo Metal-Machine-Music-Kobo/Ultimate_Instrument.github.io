@@ -8,12 +8,6 @@ UI SOUR は、味覚（カクテルのレシピ）、音響（シンセサイザ
 - [概要 / overview](overview.md)
 - [手順 / instruction](instruction.md)
 - [ルール詳細 / Rules](rules-detail.md)
-- [仕込み / Preparation](Preparation.md)
-- [トップアップ / Top Up](tu.md)
-- [テイストフィックス / Taste Fix](tf.md)
-- [ステア / Stir](stir.md)
-- [SPILLイベント](spill.md)
-- [Øルール](Ø.md)
 - [機材 / Hardware](hardware.md)
 
 ## 更新 / Updates
