@@ -30,9 +30,14 @@ It provides access to the project’s basic information, theoretical writings, p
 - [FAQ](docs/faq.md)
 
 ---
+11
+Last Updated：2025-09-11 
 
-Last Updated：2025-09-05  
-Contact：arttkg@gmail.com
+---
+
+© 2025 Arata Takagi  
+Contact: arttkg@gmail.com
+
 
 ## ライセンス
 これらの資料は [Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)](https://creativecommons.org/licenses/by-nc/4.0/deed.ja) の下で提供されています。  
