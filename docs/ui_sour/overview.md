@@ -18,5 +18,5 @@
 ---
 
 ## 関連ページ
-- [ルール詳細](rules-detail.md)  
 - [手順（Instruction）](instruction.md)
+- [ルール詳細](rules-detail.md)  
