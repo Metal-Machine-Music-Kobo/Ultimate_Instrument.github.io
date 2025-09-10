@@ -46,13 +46,10 @@
 
 ## ドキュメント
 
-- [Statements](docs/statements.md)  
-  各バージョンでのステートメントや批評テキスト。  
-
 - [Updates](docs/updates.md)  
   新しい実験やリリース情報。
 
-- [研究ノート / Studies](docs/research/index.md)  
+- [研究ノート](docs/studies/index.md)  
   UI に関連する踏み込んだ理論的考察をテーマごとにまとめています。 
 
 ---
