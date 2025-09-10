@@ -7,7 +7,7 @@ UI SOUR は、味覚（カクテルのレシピ）、音響（シンセサイザ
 ## ページ一覧
 - [概要 / overview](overview.md)
 - [手順 / instruction](instruction.md)
-- [ルール詳細 / Rules](rules-detail.md)
+- [ver1.0 ルール詳細 / Rules](rules-detail.md)
 - [機材 / Hardware](hardware.md)
 
 ## 更新 / Updates
