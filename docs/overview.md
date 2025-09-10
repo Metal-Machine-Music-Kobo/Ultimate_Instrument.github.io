@@ -49,7 +49,7 @@
 - [Updates](docs/updates.md)  
   新しい実験やリリース情報。
 
-- [研究ノート](docs/studies/index.md)  
+- [研究ノート](studies/index.md)  
   UI に関連する踏み込んだ理論的考察をテーマごとにまとめています。 
 
 ---
