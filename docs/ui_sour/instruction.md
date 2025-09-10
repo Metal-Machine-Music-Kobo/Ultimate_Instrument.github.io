@@ -1,7 +1,7 @@
 # UI SOUR Ver.1.0 美酢レモン｜手順（Instruction）
 
-このページでは、UI SOUR ver.1.0 の進行手順を簡潔にまとめる。  
-詳細な規則は [ルール詳細](rules-detail.md) を参照。
+このページでは、UI SOUR ver.1.0 の進行手順を簡潔にまとめます。  
+詳細な規則は [ルール詳細](rules-detail.md) を参照してください。
 
 ---
 
