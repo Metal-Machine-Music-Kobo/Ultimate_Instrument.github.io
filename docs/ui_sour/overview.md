@@ -20,3 +20,4 @@
 ## 関連ページ
 - [手順（Instruction）](instruction.md)
 - [ルール詳細](rules-detail.md)  
+- [子供向け](intro.md)
