@@ -30,10 +30,8 @@ It provides access to the project’s basic information, theoretical writings, p
 - [FAQ](docs/faq.md)
 
 ---
-11
-Last Updated：2025-09-11 
 
----
+Last Updated：2025-09-11 
 
 © 2025 Arata Takagi  
 Contact: arttkg@gmail.com
