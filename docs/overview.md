@@ -40,7 +40,7 @@
   UIの核にある「フィードバック構造」と「即興の再定義」。  
 
 - [Essays](https://note.com/arttkg/m/m7d6e093a18c1)  
-  身体と楽器の境界、ルッキズム批評、日常の情景に潜むUIの気配などを綴ったテキスト群。  
+  noteアプリに連載中のエッセイ。SAKEME : Counterpoint of the Ultimate Instrument。
 
 ---
 
