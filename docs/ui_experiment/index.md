@@ -12,7 +12,7 @@
 
 以下は短編実験映像のアーカイブです。  
 
-<div style="display:flex; gap:80px; flex-wrap:wrap;">
+<div style="display:flex; gap:120px; flex-wrap:wrap;">
   <div style="text-align:center;">
     <video controls width="240">
       <source src="ul_experiment_0614.mp4" type="video/mp4">
