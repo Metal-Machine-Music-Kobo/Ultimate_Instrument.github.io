@@ -17,6 +17,16 @@
 
 ---
 
+UI SOUR is an experimental work that places taste (a cocktail recipe), sound (a synthesizer), and the body as it changes through drinking on a single score, where the three mutually determine one another and operate as an integrated whole.
+
+The performance proceeds in cycles. Additions of ingredients, knob manipulations, and shifts in bodily sensation feed back into one another, orienting subsequent decisions. Each cycle follows the sequence “Preparation → Top-up → Stir → Drink → Taste-fix → Rest,” and the traces of action are never reset; they accumulate and are continually updated.
+
+This multi-layered feedback constantly generates fine fluctuations and slippages. As noise arises from within, the system does not remain in a closed equilibrium but is compelled to change. Within this process, the performer aims to relax by enjoying a good drink and good sound.
+
+There is no explicitly fixed ending. The performance concludes naturally—at the limit of the system—when accumulated intoxication makes continuation impossible.
+
+---
+
 ## 関連ページ
 - [手順（Instruction）](instruction.md)
 - [ルール詳細](rules-detail.md)  
