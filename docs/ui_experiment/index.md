@@ -37,7 +37,7 @@
 
 ## 外部リンク（アーカイブ）
 
-- [Vimeo アーカイブ]((https://vimeo.com/user/38930626/folder/26569383?isPrivate=false))  
+- [Vimeo アーカイブ]((https://vimeo.com/user/38930626/folder/26569383?isPrivate=false)  
 
 ---
 
