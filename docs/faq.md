@@ -34,7 +34,8 @@ UIはオープンな実験フレームです。
 ---
 
 **Q6. 引用や二次利用は可能ですか？**  
-A. [ライセンス条件](https://creativecommons.org/licenses/by-nc/4.0/deed.ja)に従えば引用可能です。研究・教育目的での再利用も歓迎します。
+A. [ライセンス条件](https://creativecommons.org/licenses/by-nc/4.0/deed.ja)に従えば引用可能です。研究・教育目的での再利用も歓迎します。  
+ご利用の際はcontactからご連絡いただけると幸いです。
 
 ---
 
