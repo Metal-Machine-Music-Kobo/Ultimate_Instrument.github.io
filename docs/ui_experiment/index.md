@@ -13,6 +13,37 @@
 以下は短編実験映像のアーカイブです。  
 各動画には実験の簡単なキャプションを付けています。
 
+<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
+
+  <figure style="margin: 10px; text-align: center;">
+    <video controls width="240">
+      <source src="ul_experiment_0614.mp4" type="video/mp4">
+    </video>
+    <figcaption>UI study 0614｜ケーブル操作のノイズ実験</figcaption>
+  </figure>
+
+  <figure style="margin: 10px; text-align: center;">
+    <video controls width="240">
+      <source src="ul_experiment_0617.mp4" type="video/mp4">
+    </video>
+    <figcaption>UI study 0617｜ペットボトルを使った共鳴</figcaption>
+  </figure>
+
+  <figure style="margin: 10px; text-align: center;">
+    <video controls width="240">
+      <source src="ul_experiment_0625.mp4" type="video/mp4">
+    </video>
+    <figcaption>UI study 0625｜左手による右手の実演</figcaption>
+  </figure>
+
+</div>
+
+
+## UI Experiment｜実験映像集
+
+以下は短編実験映像のアーカイブです。  
+各動画には実験の簡単なキャプションを付けています。
+
 <div style="display: flex; flex-wrap: wrap; gap: 20px;">
 
   <figure style="text-align: center;">
