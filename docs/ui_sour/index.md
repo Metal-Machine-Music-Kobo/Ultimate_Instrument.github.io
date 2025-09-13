@@ -9,6 +9,8 @@ UI SOUR は、味覚（カクテルのレシピ）、音響（シンセサイザ
 - [手順 / instruction](instruction.md)
 - [ルール詳細 / Rules](rules-detail.md)
 - [機材 / Hardware](hardware.md)
+- [UIサワーってなに？](intro.md)
+
 
 ## 更新 / Updates
 - [v0.99](update-v099.md)
