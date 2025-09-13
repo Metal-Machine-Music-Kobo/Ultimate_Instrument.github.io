@@ -9,11 +9,11 @@
 
 ### 規則体系（Rule Set）
 仕込み順、方向表、素材とノブの対応関係、ほか用語等のまとめ。  
-👉 詳細：[オーダー（Order）](order.md)
+👉 詳細：[オーダー（Rule Set）](order.md)
 
 ### 仕込み（Order）
 素材投入とノブ設定。部分許容やØルールを含む。  
-👉 詳細：[仕込み（Preparation）](Preparation.md)
+👉 詳細：[仕込み（Order）](Preparation.md)
 
 ### トップアップ（TU）
 各サイクル1回。音から味への介入。  
