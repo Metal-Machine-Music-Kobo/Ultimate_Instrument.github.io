@@ -1,4 +1,4 @@
-# 仕込み（Preparation）— 修正版・全文（v0.99）
+# 仕込み（Preparation）
 
 ## 0. 位置づけと目的
 
