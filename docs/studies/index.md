@@ -10,6 +10,7 @@
 - [制度批判と内部生成のマッピングにおけるUIの位置](ui-position-mapping.md)
 - [UIとAIの比較における主体性の整理](uiai.md)
 - [関係論的ノイズ理論　Relational Noise Theory (RN理論、RNT)](rnt.md)
+- [関係論的ノイズ論（RNT） 概要](rnt_overview.md)
 - [やさしい関係論的ノイズ論（RNT）](rnt_ez.md)
 
 ## 批評的整理
