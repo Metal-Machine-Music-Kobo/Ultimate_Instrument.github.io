@@ -11,8 +11,8 @@ UIとRNTは、実践と理論の循環として結びついており、どちら
 ---
 
 ## 基礎情報
-- [概要 / Overview](docs/overview.md)
-- [背景 / Context](docs/context.md)
+- [UI概要 / Overview](docs/overview.md)
+- [RNT概要 / Context](docs/context.md)
 
 
 ## 理論
