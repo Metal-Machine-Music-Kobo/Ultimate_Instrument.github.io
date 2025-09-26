@@ -16,7 +16,7 @@ UIとRNTは、実践と理論の循環として結びついており、どちら
 
 
 ## 理論
-- [研究ノート/ Studies](docs/studies/index.md)
+- [RNT/ Studies](docs/studies/index.md)
 - [エッセイ / Essays](https://note.com/arttkg/m/m7d6e093a18c1)
 
 
