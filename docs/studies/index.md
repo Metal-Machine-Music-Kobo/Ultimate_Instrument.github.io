@@ -1,22 +1,17 @@
 # 研究ノート / Studies
 
-ここでは UI の理解に向けた理論的な思考を展開していきます。  
+ここではRNTの理解に向けた理論的な思考を展開していきます。  
 各考察は、主にチャットGPTなどLLMとの議論を通して簡潔にまとめられています。
 
 ---
 
 ## テーマ別考察
-- [UI的ノイズ再定義におけるサティの位置づけ](satie.md)
-- [制度批判と内部生成のマッピングにおけるUIの位置](ui-position-mapping.md)
-- [UIとAIの比較における主体性の整理](uiai.md)
-- [関係論的ノイズ理論　Relational Noise Theory (RN理論、RNT)](rnt.md)
-- [関係論的ノイズ論（RNT） 概要](rnt_overview.md)
+- [関係論的ノイズ論 ― 定義と枠組み](satie.md)
+- [フィードバック生成原理におけるノイズの定義](ui-position-mapping.md)
+- [関係論的即興ノイズ論における即興の位置づけ](uiai.md)
+- [アルティメット・インストゥルメント(UI)と関係論的ノイズ論](rnt.md)
+- [アルティメット・インストゥルメントの3原理](rnt_overview.md)
+- [歴史と文脈]
+- [RNTの原理の補強命題：ノイズの種類と関係性]
 - [やさしい関係論的ノイズ論（RNT）](rnt_ez.md)
 
-## 批評的整理
-- [John Cage](references/cage.md)
-- [David Tudor](references/tudor.md)
-- [Fluxus](references/fluxus.md)
-
-## 関連資料
-- [日記 / Diary](../diary/index.md)
