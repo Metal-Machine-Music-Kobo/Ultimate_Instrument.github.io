@@ -11,12 +11,12 @@ UIとRNTは、実践と理論の循環として結びついており、どちら
 ---
 
 ## 基礎情報
-- [UI概要 / Overview](docs/overview.md)
-- [RNT概要 / Context](docs/context.md)
+- [UI概要 / UI Overview](docs/overview.md)
+- [RNT概要 / RNT Context](docs/context.md)
 
 
 ## 理論
-- [RNT/ Studies](docs/studies/index.md)
+- [RNT/ RNT Studies](docs/studies/index.md)
 - [エッセイ / Essays](https://note.com/arttkg/m/m7d6e093a18c1)
 
 
