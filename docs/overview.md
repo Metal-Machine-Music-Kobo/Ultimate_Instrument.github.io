@@ -34,11 +34,9 @@ UIにおいて、楽器・楽譜・人・環境は切り離された役割を持
 
 ---
 
-## 文脈とエッセイ
+## 関係論的ノイズ論 / RNT
 
-- [Context](context.md)  
-  20世紀実験音楽（図形楽譜・行為記譜・非決定性スコア）との連続性と違い。  
-  UIの核にある「フィードバック構造」と「即興の再定義」。  
+- [Context](.md)  
 
 - [Essays](https://note.com/arttkg/m/m7d6e093a18c1)  
   noteアプリに連載中のエッセイ。SAKEME : Counterpoint of the Ultimate Instrument。
