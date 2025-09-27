@@ -12,7 +12,7 @@
 - [第五章　展開・応用](05-applications.md)
 - [終章　結論](99-conclusion.md)
 - [補論1　歴史と文脈](context.md)
-- [補論2　RNT原理の補強命題：ノイズの種類と関係性](rnt_supplement.md)
+- [補論2　RNT原理の補強命題：ノイズの種類と関係性](RNT_supplement.md)
 
 ---
   
