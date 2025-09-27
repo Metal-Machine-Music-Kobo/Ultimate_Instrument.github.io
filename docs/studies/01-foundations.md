@@ -22,4 +22,4 @@
 
 本書で提示する理論を、ここに **関係論的ノイズ論（Relational Noise Theory, RNT）** と呼ぶこととする。  
 
-[第2章](noise.md)
+[第2章](02-noise-principle.md)
