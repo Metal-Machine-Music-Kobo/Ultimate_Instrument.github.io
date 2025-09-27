@@ -14,7 +14,7 @@ It provides access to the project’s basic information, theoretical writings, p
 
 
 ## 理論
-- [関係論的ノイズ論（RNT）/ RNT Studies](docs/RNT/index.md)
+- [関係論的ノイズ論（RNT）/ Relational Noise Theory](docs/RNT/00_index.md)
 - [エッセイ / Essays](https://note.com/arttkg/m/m7d6e093a18c1)
 
 
