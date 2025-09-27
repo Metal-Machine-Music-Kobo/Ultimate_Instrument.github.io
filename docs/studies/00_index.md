@@ -1,11 +1,10 @@
-# 理論 / Studies
+#  関係論的ノイズ論 / Relational Noise Theory (RNT)
 
 ここではRNTの理論的な思考を、章立てでまとめています。  
 簡潔な解説はやさしい関係論的ノイズ論のページをご参照ください。
 
 ---
 
-## 関係論的ノイズ論 / Relational Noise Theory (RNT)
 - [1章　関係論的ノイズ論 ― 定義と枠組み](01-foundations.md)
 - [2章　ノイズ原理](02-noise-principle.md)
 - [3章　即興原理](03-improvisation-principle.md)
