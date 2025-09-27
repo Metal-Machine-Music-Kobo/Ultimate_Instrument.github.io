@@ -1,12 +1,10 @@
 # アルティメット・インストゥルメント｜資料ポータル
 
-アルティメット・インストゥルメント（UI）は、音楽や環境を「関係」として構築するフレームワークです。  
-その背後には、ノイズ・即興・フィードバックをめぐる理論的枠組み「関係論的ノイズ論（RNT）」があります。  
-このサイトでは、UIの実践やRNTの理論、研究ノートを公開しています。
+このサイトは、UI（Ultimate Instrument）とRNT(Relational Noise Theory )関連の公開資料をまとめたポータルです。  
+思想・ルール・ライブ情報などを整理して公開します。
 
-
-UIとRNTは、実践と理論の循環として結びついており、どちらも「関係から世界をつくる」という思想を共有しています。  
-
+This site is a portal for the Ultimate Instrument project.  
+It provides access to the project’s basic information, theoretical writings, practical experiments, and other related documents.
 
 ---
 
