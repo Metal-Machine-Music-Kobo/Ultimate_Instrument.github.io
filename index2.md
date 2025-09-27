@@ -23,6 +23,7 @@ UIとRNTは、実践と理論の循環として結びついており、どちら
 ## 実践
 - [UI サワー / UI SOUR](docs/ui_sour/index.md)
 - [UI エクスペリメント / UI EXPERIMENT](docs/ui_experiment/index.md)
+- [ライブ情報　/ LIVE information](live.md)
 
 
 ## その他
@@ -31,7 +32,7 @@ UIとRNTは、実践と理論の循環として結びついており、どちら
 
 ---
 
-Last Updated：2025-09-11 
+Last Updated：2025-09-27
 
 © 2025 Arata Takagi  
 Contact: arttkg@gmail.com
