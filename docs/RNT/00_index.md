@@ -24,7 +24,7 @@ UIを支えるRNT（関係論的ノイズ論）について章立てで整理し
 - [第五章　展開・応用](05-applications.md)
 - [補論1　歴史と文脈](06_context.md)
 - [補論2　ノイズの種類と関係性](07_supplement.md)
-- [応用具体例1　グランジ3バンドへのRNT的評価](08_application-grunge.md)
+- [応用具体例1　グランジ3バンドへのRNT的評価](08_applications-grunge.md)
 - [応用具体例2　AIとUIの類似と差異]()　
 
 ---
