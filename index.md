@@ -9,8 +9,7 @@ It provides access to the project’s basic information, theoretical writings, p
 ---
 
 ## 基礎情報
-- [UI概要 / UI Overview](docs/ui_overview.md)
-- [RNT概要 / RNT Overview](docs/context.md)
+- [概要 / Overview](docs/ui_overview.md)
 
 
 ## 理論
