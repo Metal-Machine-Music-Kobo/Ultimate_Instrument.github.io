@@ -36,7 +36,7 @@ UIにおいて、楽器・楽譜・人・環境は切り離された役割を持
 
 ## 関係論的ノイズ論 / RNT
 
-- [インデックス](00_index.md)  
+- [関係論的ノイズ論](docs/RNT/00_index.md)  
 
 - [Essays](https://note.com/arttkg/m/m7d6e093a18c1)  
   noteアプリに連載中のエッセイ。SAKEME : Counterpoint of the Ultimate Instrument。
