@@ -1,6 +1,6 @@
 # アルティメット・インストゥルメント｜資料ポータル
 
-このサイトは、UI（Ultimate Instrument）とRNT(Relational Noise Theory )関連の公開資料をまとめたポータルです。  
+このサイトは、UI（Ultimate Instrument）関連の公開資料をまとめたポータルです。  
 思想・ルール・ライブ情報などを整理して公開します。
 
 This site is a portal for the Ultimate Instrument project.  
