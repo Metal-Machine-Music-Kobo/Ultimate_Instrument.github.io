@@ -27,12 +27,12 @@
   
 ---
 
-**補論**  
+**補論・応用**  
 
 - [補論1　歴史と文脈](06_context.md)
 - [補論2　ノイズの種類と関係性](07_supplement.md)
-- [応用具体例1　グランジ3バンドへのRNT的評価](08_applications-grunge.md)
-- [応用具体例2　AIとUIの類似と差異](09_ui_ai.md)　
+- [応用1　グランジ3バンドへのRNT的評価](08_applications-grunge.md)
+- [応用2　AIとUIの類似と差異](09_ui_ai.md)　
 
 ---
   
