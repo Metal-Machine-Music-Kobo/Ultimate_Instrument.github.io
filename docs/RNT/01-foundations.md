@@ -20,6 +20,6 @@
 
 この二命題を土台として、後章ではノイズ・即興・フィードバックの三原理を順次展開していく。  
 
-本書で提示する理論を、ここに **関係論的ノイズ論（Relational Noise Theory, RNT）** と呼ぶこととする。  
+本稿で提示する理論を、ここに **関係論的ノイズ論（Relational Noise Theory, RNT）** と呼ぶこととする。  
 
 [第二章](02-noise-principle.md)
