@@ -28,9 +28,19 @@
 ---
 
 ## 4. 歴史的参照点
-- ジャズやフリージャズにおける即興は、単なる装飾ではなく、**構造そのものを揺らがせる行為**として理解されうる。  
-- サティの試みやケージの偶然性音楽もまた、即興を「応答」として提示した先例である。  
-- これらはすべて、RNTの即興原理に先行する実践的基盤を提供している。  
+
+自由即興の実践者である Derek Bailey は、著書  
+*Improvisation: Its Nature and Practice in Music*（1980／1993）において次のように述べている。
+
+> "Free improvisation is not, as is sometimes thought, a totally ad hoc activity, starting from nothing.  
+> It has its own history, conventions, and associations."  
+> （p.83, Da Capo Press 版）
+
+「自由即興は、しばしば考えられているような“無から始まる”完全に場当たり的な活動ではない。  
+それには固有の歴史、慣習、そして関係性がある。」
+
+ここで Bailey は、即興を「無からの創出」ではなく、歴史や制度、他者との関係の網の目の中で生成されるものとして捉えている。  
+これは RNT が即興を「恣意」や「決定論」に還元せず、**関係的必然性と偶然性の交差点における生成契機**と位置づける立場と響き合う先駆的な視点である。
 
 ---
 
