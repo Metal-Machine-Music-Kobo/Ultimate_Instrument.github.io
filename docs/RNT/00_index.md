@@ -30,7 +30,7 @@
 **研究ノート**  
 
 - [RNT補論1　歴史と文脈](06_context.md)
-- [RNT補論2　ノイズの種類と関係性についての注釈](07_supplement.md)
+- [RNT補論2　ノイズの種類についての注釈](07_supplement.md)
 - [応用1　グランジ3バンドへのRNT的評価](08_applications-grunge.md)
 - [応用2　AIとUIの類似と差異](09_ui_ai.md)　
 
