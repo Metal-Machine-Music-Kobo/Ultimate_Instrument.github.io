@@ -29,18 +29,22 @@
 
 ## 4. 歴史的参照点
 
-自由即興の実践者である Derek Bailey は、著書  
-*Improvisation: Its Nature and Practice in Music*（1980／1993）において次のように述べている。
+### 即興観の参照項 — Bailey と Boulez
 
-> "Free improvisation is not, as is sometimes thought, a totally ad hoc activity, starting from nothing.  
-> It has its own history, conventions, and associations."  
-> （p.83, Da Capo Press 版）
+RNTの立場を理解するためには、即興をめぐる異なるアプローチを比較することが有益である。  
+ここでは Bailey と Boulez という、方向を異にする二つの視点を参照する。
 
-「自由即興は、しばしば考えられているような“無から始まる”完全に場当たり的な活動ではない。  
-それには固有の歴史、慣習、そして関係性がある。」
+- **Derek Bailey**  
+  自由即興を「無から始まる場当たり的活動」ではなく、歴史・慣習・関係性の網の目の中で生成される実践として捉えた。  
+  即興は「関係を整理するプロセス」（*Improvisation: Its Nature and Practice in Music*, p.ix）であり、RNTが提示する「関係的必然性と偶然性の交差点」という視点と重なり合う。
 
-- ここで Bailey は、即興を「無からの創出」ではなく、歴史や制度、他者との関係の網の目の中で生成されるものとして捉えている。  
-- RNTにおける構造的即興原理の重要な参照点である。
+- **Pierre Boulez**  
+  シリアル主義の秩序の中で「制御された偶然」を導入し、即興を構造の一部として位置づけた。  
+  ここでは即興は秩序の余白にとどまるが、作曲と演奏の境界を問い直す試みとして参照可能である。
+ 
+「即興＝関係を生成する過程」と「即興＝秩序を補完する要素」という異なる観点を並置することで、RNTがとる立場を輪郭づけることができる。
+
+
 
 ---
 
