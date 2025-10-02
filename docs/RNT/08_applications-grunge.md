@@ -1,3 +1,6 @@
+# グランジ三バンドのRNT的分析（スマパンを中心に）  
+*Relational Noise Theory – Applied Example: Grunge Triad with Smashing Pumpkins Focus*
+
 ここではRNT批評の応用課題としてスマパンを中心としたグランジ3バンドを総括する。  
 ポイントはフィードバックの可否が音楽実践をどのように方向づけるか、にある。
 
@@ -80,8 +83,7 @@
 
 ---
 
-# グランジ三バンドのRNT的分析（可能性と課題）  
-*Relational Noise Theory – Applied Example: Grunge Triad*
+# グランジ三バンドの可能性と課題  
 
 ## Nirvana（カート・コバーン）
 - **可能性**  
