@@ -19,7 +19,7 @@
 - コーガンの嗜好が多方向に顕在化。  
 - ただし差異は早くも「コーガンの音」に一極化し、分散的運用は弱い。  
 
-### 大作主義・多量生産（*Pisces Iscariot*, *Mellon Collie and the Infinite Sadness*）
+### 多量生産と大作主義（*Pisces Iscariot*, *Mellon Collie and the Infinite Sadness*）
 - メロンコリーは2枚組28曲の超大作。差異を大規模に「加算」し、市場を大きく揺さぶる。  
 - 差異投下＝正の帰還は爆発的だった。
 - 膨大なボリュームのB面曲集やアウトテイクの発表も差異の生成・拡大を広げる。
