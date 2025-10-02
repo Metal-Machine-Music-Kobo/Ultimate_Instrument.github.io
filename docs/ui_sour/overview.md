@@ -1,33 +1,75 @@
-# UI SOUR｜概要
+# UI SOUR 概要
 
-**UI SOUR** は、味覚（カクテルのレシピ）、音響（シンセサイザー）、そして飲酒によって変化する身体を  
-同一のスコア上に並べ、三者が相互規定して一体となり作動する実験的な作品である。
+## コンセプト
+**UI SOUR** は、  
+- 味覚（カクテルのレシピ）  
+- 音響（シンセサイザー）  
+- 飲酒によって変化する身体  
 
-演奏はサイクル単位で進行し、素材の投入・ノブの操作・身体感覚の揺れが  
-互いにフィードバックし合いながら次の判断を方向づける。  
-各サイクルは「仕込み → トップアップ → ステア → 飲む → テイストフィックス → 休憩」という流れで進み、  
-行為の痕跡はリセットされず、累積的に更新され続ける。
+この三者を同一のスコア上に並べ、**相互規定**しながら一体となって作動する実験的作品です:contentReference[oaicite:0]{index=0}。  
 
-多層的なフィードバックは、常に微細な揺らぎやズレを生む。  
-ノイズが内部から現れることで、システムは閉じた均衡にとどまらず、常に変化を余儀なくされる。  
-そのなかで、おいしいお酒を飲んでいい音楽を聞きリラックスすることを演者は目標とする。
-
-上演の終了は明示的に定められていない。  
-酔いの蓄積により続行が不可能になったとき、システムの限界として自然に終結する。
+演奏はサイクル単位で進行し、素材の投入・ノブ操作・身体感覚の揺れが **フィードバック** し合い、次の判断を方向づけます。  
 
 ---
 
-UI SOUR is an experimental work that places taste (a cocktail recipe), sound (a synthesizer), and the body as it changes through drinking on a single score, where the three mutually determine one another and operate as an integrated whole.
+## サイクルの流れ
+1. **仕込み（Preparation）**  
+2. **トップアップ（TU）**  
+3. **ステア（Stir / FM変調）**  
+4. **飲む（Drink）**  
+5. **テイストフィックス（TF）**  
+6. **休憩（Rest）**  
 
-The performance proceeds in cycles. Additions of ingredients, knob manipulations, and shifts in bodily sensation feed back into one another, orienting subsequent decisions. Each cycle follows the sequence “Preparation → Top-up → Stir → Drink → Taste-fix → Rest,” and the traces of action are never reset; they accumulate and are continually updated.
-
-This multi-layered feedback constantly generates fine fluctuations and slippages. As noise arises from within, the system does not remain in a closed equilibrium but is compelled to change. Within this process, the performer aims to relax by enjoying a good drink and good sound.
-
-There is no explicitly fixed ending. The performance concludes naturally—at the limit of the system—when accumulated intoxication makes continuation impossible.
+行為の痕跡はリセットされず、累積的に更新されます。  
+微細な揺らぎやズレが常に生じ、閉じた均衡にとどまらず変化を続けます。  
 
 ---
 
-## 関連ページ
-- [手順（Instruction）](instruction.md)
-- [ルール詳細](rules-detail.md)  
-- [UIサワーってなに？](intro.md)
+## 素材とノブの対応
+- 焼酎 = **VARI**（基体／芯）  
+- 美酢 = **OT**（彩度／艶）  
+- 炭酸 = **MULTI**（粒立ち／変調）  
+- レモン = **RISE**（明度／輪郭）  
+- 氷 = **FALL**（冷却／希釈）:contentReference[oaicite:1]{index=1}
+
+---
+
+## 仕込み順パターン（例）
+- **標準均衡**：焼 → 美 → 炭 → レ → 氷（安定／地味）  
+- **上昇先行**：レ → 炭 → 美 → 焼 → 氷（瞬発／刺寄り）  
+- **収束先行**：氷 → 焼 → 美 → 炭 → レ（鎮静／鈍化）:contentReference[oaicite:2]{index=2}
+
+---
+
+## 方向表（T）
+仕込み時に適用される回転規則（CW = 時計回り、CCW = 反時計回り）:contentReference[oaicite:3]{index=3}。  
+
+- **T0**：均衡探索  
+- **T1**：刺し緩和  
+- **T2**：散逸・短期反復  
+- **T3**：SPILL発生時のみ適用（全素材を+1/5押し出し）  
+
+---
+
+## RNTとの接続
+UI SOUR は、**関係論的ノイズ論（RNT）**:contentReference[oaicite:4]{index=4}の実践的展開です。  
+
+- **ノイズ**：外部からではなく、関係循環の内部で立ち上がる差異  
+- **即興**：その差異へのリアルタイム応答と介入  
+- **フィードバック**：痕跡を保持し、秩序を更新する循環  
+
+これにより「演奏と楽譜の同時生成」:contentReference[oaicite:5]{index=5}が実現されます。  
+
+---
+
+## 上演の終結
+終了は明示的に定められていません。  
+酔いの蓄積により続行が不可能となった時、システムの限界として自然に終わります:contentReference[oaicite:6]{index=6}。  
+
+---
+
+## 関連資料
+- [方向表（Quick Sheet）](方向表.pdf)  
+- [UI SOUR｜R8 v0.99 仕様書](UI%20SOUR｜R8%20v0.99.pdf)  
+- [関係論的ノイズ論（RNT）](RNT09292025.pdf)  
+- [補論・応用（歴史的文脈と比較分析）](補論・応用.pdf)  
