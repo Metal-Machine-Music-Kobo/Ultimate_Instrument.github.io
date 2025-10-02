@@ -2,7 +2,7 @@
 *Relational Noise Theory – Applied Example: Grunge Triad with Smashing Pumpkins Focus*
 
 ここではRNT批評の応用課題としてスマパンを中心としたグランジ3バンドを総括する。  
-ポイントはフィードバックの可否が音楽実践をどのように方向づけるか、にある。
+ポイントは正負双方向の帰還（差異生成とその抑制）、すなわちフィードバックの可否が音楽実践をどのように方向づけるか、にある。
 
 ---
 
