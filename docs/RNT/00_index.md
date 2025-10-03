@@ -32,7 +32,7 @@
 - [RNT補論1　歴史と文脈](06_context.md)
 - [RNT補論2　ノイズの種類についての注釈](07_supplement.md)
 - [試論1　グランジ三バンドのRNT的分析（可能性と課題）](08_applications-grunge.md)
-- [試論2　AIとUIの類似と差異](09_ui_ai.md)　
+- [試論2　Wu-Tang Clan と水牛楽団 ― 内部と外部をめぐる複雑な緊張](d10_wu_tang_vs_suigyu.md)　
 
 ---
   
