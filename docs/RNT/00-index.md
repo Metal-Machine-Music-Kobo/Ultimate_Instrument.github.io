@@ -20,8 +20,8 @@
 
 **原理**
 
-- [第一章　関係論的ノイズ論 ― 定義と枠組み](01_foundations.md)
-- [第二章　ノイズ原理](02_noise_principle.md)
+- [第一章　関係論的ノイズ論 ― 定義と枠組み](01-foundations.md)
+- [第二章　ノイズ原理](02-noise_principle.md)
 - [第三章　即興原理](03-improvisation-principle.md)
 - [第四章　フィードバック原理](04-feedback-principle.md)
 - [第五章　展開・応用](05-applications.md)
