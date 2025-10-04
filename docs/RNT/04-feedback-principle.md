@@ -61,4 +61,4 @@ Young は即興的応答の契機を、Reed は自律的循環の提示を体現
 
  ---  
 **← 戻る：** [第三章](03-improvisation.principle.md)  
-**次へ →** [第五章](03-applications.md)
+**次へ →** [第五章](05-applications.md)
