@@ -30,10 +30,10 @@
 
 **研究ノート**  
 
-- [RNT補論1　歴史と文脈](06_context.md)
-- [RNT補論2　ノイズの種類についての注釈](07_supplement.md)
-- [試論1　グランジ三バンドのRNT的分析（可能性と課題）](08_applications-grunge.md)
-- [試論2　Wu-Tang Clan と水牛楽団 ― 内部と外部をめぐる複雑な緊張](10_wu_tang_vs_suigyu.md)　
+- [RNT補論1　歴史と文脈](06-context.md)
+- [RNT補論2　ノイズの種類についての注釈](07-supplement.md)
+- [試論1　グランジ三バンドのRNT的分析（可能性と課題）](08-applications-grunge.md)
+- [試論2　Wu-Tang Clan と水牛楽団 ― 内部と外部をめぐる複雑な緊張](10-wu_tang_vs_suigyu.md)　
 
 ---
   
