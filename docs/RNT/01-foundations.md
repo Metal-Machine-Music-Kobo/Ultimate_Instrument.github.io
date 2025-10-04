@@ -28,7 +28,7 @@
 
 ---  
 
-**← 戻る：** [目次](00_index.md)  
-**次へ →** [第二章　ノイズ原理](02_noise_principle.md)
+**← 戻る：** [目次](00-index.md)  
+**次へ →** [第二章　ノイズ原理](02-noise-principle.md)
 
 
