@@ -60,5 +60,5 @@ Young は即興的応答の契機を、Reed は自律的循環の提示を体現
 👉 この原理によって、ノイズ・即興・フィードバックという三要素が統合され、RNTの全体的な生成論的枠組みが完成する。  
 
  ---  
-**← 戻る：** [第三章](03-improvisation.principle.md)  
+**← 戻る：** [第三章](03-improvisation-principle.md)  
 **次へ →** [第五章](05-applications.md)
