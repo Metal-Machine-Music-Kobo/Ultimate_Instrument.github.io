@@ -72,5 +72,5 @@ UI SOUR は、**RNTに基づくアルティメット・インストゥルメン�
 ## 関連資料
 - [方向表（Quick Sheet）](方向表.pdf)  
 - [UI SOUR｜R8 v0.99 仕様書](UI%20SOUR｜R8%20v0.99.pdf)  
-- [関係論的ノイズ論（RNT）](docs/RNT/00_index.md)  
+- [関係論的ノイズ論（RNT）](RNT/00_index.md)  
 - [補論・応用（歴史的文脈と比較分析）](補論・応用.pdf)  
