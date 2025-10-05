@@ -61,4 +61,4 @@ RNTはこれらをともに批判的に継承する。
 
 ---  
 **← 戻る：** [ノイズ原理](02-noise-principle.md)  
-**次へ →** [フィードバック原理(04-feedback-principle.md)
+**次へ →** [フィードバック原理](04-feedback-principle.md)
