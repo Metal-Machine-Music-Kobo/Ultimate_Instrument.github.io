@@ -46,7 +46,7 @@ UIにおいて、楽器・楽譜・人・環境は切り離された役割を持
 
 ## ライブ情報・アップデート
 
-- [LIVE](updates.md)  
+- [LIVE](live-information.md)  
  
 
 - [UPDATE](updates.md)  
