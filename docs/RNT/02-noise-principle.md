@@ -50,5 +50,5 @@ RNTはその制度批判的意義を評価しつつ、ノイズを「関係か�
 👉 RNTにおいてノイズは関係を基盤として理解される。  
 
 ---  
-**← 戻る：** [第一章](01-foundations.md)  
-**次へ →** [第三章](03-improvisation-principle.md)
+**← 戻る：** [定義と枠組み](01-foundations.md)  
+**次へ →** [即興原理](03-improvisation-principle.md)
