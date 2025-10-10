@@ -28,7 +28,7 @@
 
 ### 🗂 関連資料  
 - [UI sour](procedure.md)
-- [RNT](docs/RNT/00-index.md)  
+- [RNT](RNT/00-index.md)  
 
 
 ---
