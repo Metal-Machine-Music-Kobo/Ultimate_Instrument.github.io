@@ -28,7 +28,7 @@
 
 ### 🗂 関連資料  
 - [RNT](rules.md)  
-- [UI sour）](procedure.md)  
+- [UI sour](procedure.md)  
 
 
 ---
