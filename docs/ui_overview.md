@@ -60,6 +60,3 @@ UIは人が操る道具・楽器ではありません。
 - GitHub Repository: [Ultimate_Instrument](https://github.com/Metal-Machine-Music-Kobo/Ultimate_Instrument.github.io)
 
 
----
-
-最終更新：2025-09-04
