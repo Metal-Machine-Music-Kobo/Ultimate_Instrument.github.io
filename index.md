@@ -18,8 +18,8 @@ It provides access to the project’s basic information, theoretical writings, p
 
 
 ## 実践
-- [UI サワー / UI SOUR](docs/ui_sour/index-02.md)
-- [UI エクスペリメント / UI EXPERIMENT](docs/ui_experiment/index.md)
+- [UI サワー / UI SOUR](docs/ui_sour/index.md)
+- [UI エクスペリメント / UI EXPERIMENT](docs/ui_experiment/index-02.md)
 - [ライブ情報　/ LIVE information](docs/live-information.md)
 
 
